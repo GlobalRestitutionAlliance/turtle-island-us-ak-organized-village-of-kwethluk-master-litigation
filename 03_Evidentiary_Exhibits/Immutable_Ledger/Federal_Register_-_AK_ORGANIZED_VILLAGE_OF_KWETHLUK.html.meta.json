@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+ORGANIZED+VILLAGE+OF+KWETHLUK",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+ORGANIZED+VILLAGE+OF+KWETHLUK",
+  "title": "Federal Register - AK ORGANIZED VILLAGE OF KWETHLUK",
+  "fetched_at": "2026-11-23T17:25:21.166697Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 206441,
+  "sha256": "626aaed320a8a53a71938a9b758b157ef4675d82045fe0ba2ed6e3bb6fafd32f",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
